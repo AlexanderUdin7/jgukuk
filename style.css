@@ -1,0 +1,21 @@
+body {
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header {
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 15px;
+    z-index: 100;
+    top: 0;
+    position: sticky;
+}
+#output {
+    text-align: center;
+    line-height: 1.2px;
+    font-family:sans-serif;
+    h3 {
+        color: rgb(136, 126, 36);
+        padding: 5px;
+    }
+}
